@@ -1,11 +1,20 @@
 # ERP Architecture
 
-ERP systems should enforce architecture — not replace it.
+ERP is not software selection. It’s how systems produce governance and speed.
 
-This section covers:
-- ERP structure and configuration patterns
-- environment design (dev, test, prod)
-- integrations and data boundaries
-- deployment considerations
+This section documents:
+- Architecture patterns for ERP deployments
+- Multi-entity / multi-program structures
+- Integration principles (payments, payroll, banking, CRM, inventory)
+- Upgrade-safe customization practices
 
-Odoo is discussed where relevant, but principles remain system-agnostic.
+## Outcomes
+- Implementations that ship clarity, not just features
+- Configurations that survive growth, audits, and staff changes
+- A system that enforces process instead of relying on memory
+
+## Key topics
+- Configuration layers: what to configure vs what to customize
+- Data model and dimensions: consistency across modules
+- Deployment thinking: environments, backups, access, change control
+- Odoo patterns (and where alternatives make sense)

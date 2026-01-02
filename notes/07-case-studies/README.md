@@ -1,11 +1,23 @@
 # Case Studies
 
-This section captures anonymized patterns from real-world finance system work.
+Case studies translate principles into real delivery.
 
-Rather than name organizations, the focus is on:
-- structural problems
-- architectural decisions
-- trade-offs
-- outcomes
+These are anonymized patterns based on practical implementation realities:
+- What was broken
+- What we changed
+- What the new architecture enabled
+- What we would do differently
 
-Case studies here are meant to teach thinking, not promote implementations.
+## Outcomes
+- Executives understand ROI in plain language
+- Teams see how architecture reduces complexity over time
+- Readers can apply patterns to their own system
+
+## Format
+Each case study follows the repository template:
+- Context
+- Problem framing
+- Architecture decisions
+- Implementation notes
+- Measurable outcomes
+- Risks and tradeoffs
