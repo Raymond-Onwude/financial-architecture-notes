@@ -1,16 +1,16 @@
 # Financial Architecture Notes
 **By Raymond Onwude — Founder, DPIO**
 
-Design finance so truth is routine — not a quarterly project.
+Design finance so truth is routine & not a quarterly project.
 
 This repository is a living notebook on building **decision-ready financial systems**: ledger design, controls, reporting intelligence, and ERP architecture.
 
-It is written for **business owners, operators, CFOs, and implementation teams** who want clarity, governance, and speed — without fragile spreadsheets or disconnected tools.
+It is written for **business owners, operators, CFOs, and implementation teams** who want clarity, governance, and speed; without fragile spreadsheets or disconnected tools.
 
 ---
 
 ## Why this exists
-Most organizations don’t have a finance problem — they have an **architecture problem**:
+Most organizations don’t have a finance problem; they have an **architecture problem**:
 - charts of accounts that can’t answer management questions
 - workflows that weaken internal controls
 - reporting that is late, inconsistent, or impossible to audit
@@ -54,4 +54,4 @@ Short, structured notes. Each entry aims to be:
 ---
 
 ## About DPIO
-DPIO is a financial systems and ERP architecture firm focused on designing scalable, decision-ready infrastructure for modern organizations.
+DPIO is a financial systems and ERP architecture firm focused on designing scalable, decision-ready infrastructure for modern organizations. Visit www.dpio.ca to learn more.
