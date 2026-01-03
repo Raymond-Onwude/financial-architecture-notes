@@ -1,6 +1,6 @@
 # Case Studies
 
-Case studies translate principles into real delivery.
+Case studies translate principles into real delivery. They are written as **architecture stories**: problem → constraints → design → tradeoffs → outcome.
 
 These are anonymized patterns based on practical implementation realities:
 - What was broken

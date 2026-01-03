@@ -2,6 +2,11 @@
 
 ERP is not software selection. It’s how systems produce governance and speed.
 
+It's system design: data model, workflows, controls, integrations, and operating rhythm.
+
+## What lives here
+- ERP design patterns (Odoo and beyond)
+
 This section documents:
 - Architecture patterns for ERP deployments
 - Multi-entity / multi-program structures

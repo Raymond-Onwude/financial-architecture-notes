@@ -2,6 +2,8 @@
 
 Controls are not paperwork. Controls are *systems design*.
 
+Controls are the mechanisms that make financial truth repeatable: approvals, segregation of duties, audit trails, and reconciliations.
+
 This section captures practical control architecture:
 - Approval chains that match spending authority
 - Segregation of duties that works in small teams

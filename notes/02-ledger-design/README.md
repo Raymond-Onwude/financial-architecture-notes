@@ -22,3 +22,5 @@ This section covers how to structure:
 ## Workstream
 Daily notes in this folder will build toward a complete “reference architecture” for decision-ready ledgers.
 
+## Index
+- Day 03 — Ledger as the Source of Truth

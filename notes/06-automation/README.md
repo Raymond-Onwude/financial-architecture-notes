@@ -1,6 +1,6 @@
 # Automation
 
-Automation is the discipline of making finance repeatable.
+Automation is the discipline of making finance repeatable. It should reduce manual work **without** weakening controls.
 
 This section covers:
 - Validations that catch issues before month-end

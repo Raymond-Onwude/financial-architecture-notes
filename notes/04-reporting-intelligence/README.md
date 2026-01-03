@@ -2,6 +2,8 @@
 
 Reporting intelligence turns accounting data into decisions.
 
+Decision-ready reporting is the output of good architecture: consistent coding, reconciled drivers, and aligned KPIs.
+
 This section covers:
 - Management reporting (KPIs, runway, margin, unit economics)
 - Funding reporting (restricted funds, program reporting, compliance)
