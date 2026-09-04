@@ -24,3 +24,4 @@ Each day adds a timestamped entry.
 - 2026-08-23: progress checkpoint
 - 2026-08-27: progress checkpoint
 - 2026-08-28: progress checkpoint
+- 2026-09-04: progress checkpoint
